@@ -1,0 +1,16 @@
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
+p{
+    margin-bottom: 1rem;
+}
+li{
+    margin-top: 20px;
+}
+h2{
+    padding-top: 50px;
+}
+a{
+    text-decoration: overline; 
+}
